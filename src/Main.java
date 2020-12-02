@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 	// write your code
         try {
-            Http.main(args);
+            Http.start(args);
         } catch (Exception e) {
 
         }
